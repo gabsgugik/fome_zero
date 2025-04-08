@@ -80,31 +80,31 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3
 3. Visão das cidades
 4. Visão dos tipos de culinárias
 
-## 1) Visão dos restaurantes:
-a) Total de Restaurantes Cadastrados
-b) Total de Países Cadastrados
-c) Total de Cidades Cadastradas
-d) Total de Avaliações Feitas na Plataforma
-e) Total de Tipos de Culinárias oferecidas
-f) Localização dos restaurantes no mapa, agrupados por proximidade
+## 1. Visão dos restaurantes:
+1. Total de Restaurantes Cadastrados
+2. Total de Países Cadastrados
+3. Total de Cidades Cadastradas
+4. Total de Avaliações Feitas na Plataforma
+5. Total de Tipos de Culinárias oferecidas
+6. Localização dos restaurantes no mapa, agrupados por proximidade
 
-## 2) Visão dos países:
-a) Quantidade de Restaurantes Registados por país
-b) Quantidade de Cidades Registradas por país
-c) Médias da quantidade de avaliações feitas por países
-d) Média de preço de um prato para Duas pessoas por País  
+## 2. Visão dos países:
+1. Quantidade de Restaurantes Registados por país
+2. Quantidade de Cidades Registradas por país
+3. Médias da quantidade de avaliações feitas por países
+4. Média de preço de um prato para Duas pessoas por País  
 
-## 3) Visão das cidades:
-a) Top Cidades com mais restaurantes na base de dados
-b) Top Cidades com média de avaliação acima de 4
-c) Top Cidades com média de avaliação acima de 2.5
-d) Cidades com mais restaurantes com tipos de culinárias distintos
+## 3. Visão das cidades:
+1. Top Cidades com mais restaurantes na base de dados
+2. Top Cidades com média de avaliação acima de 4
+3. Top Cidades com média de avaliação acima de 2.5
+4. Cidades com mais restaurantes com tipos de culinárias distintos
 
-## 4) Visão dos tipos de culinária:
-a) Melhores Restaurantes dos principais tipos de Culinárias: Italiana, Americana, Árabe, Japonesa e Brasileira
-b) Top Restaurantes melhores avaliados
-c) Melhores tipos de culinárias
-d) Piores tipos de culinária
+## 4. Visão dos tipos de culinária:
+1. Melhores Restaurantes dos principais tipos de Culinárias: Italiana, Americana, Árabe, Japonesa e Brasileira
+2. Top Restaurantes melhores avaliados
+3. Melhores tipos de culinárias
+4. Piores tipos de culinária
 
 
 # 4. Top 3 Insights de dados
