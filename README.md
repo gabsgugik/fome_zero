@@ -115,7 +115,7 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3
 
 # 5. O produto final do projeto
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link: https://gabs-fomezero.streamlit.app/Cuisines
+O painel pode ser acessado através desse link: https://gabs-fomezero.streamlit.app/
 
 
 # 6. Conclusão
