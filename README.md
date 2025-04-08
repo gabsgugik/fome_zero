@@ -66,8 +66,9 @@ O CEO também pediu que fosse gerado um dashboard que permitisse que ele visuali
 
 Seu trabalho é utilizar os dados que a empresa Fome Zero possui e responder as perguntas feitas do CEO e criar o dashboard solicitado.
 
+
 # 2. Premissas assumidas para a análise
-1.
+1. Os dados não possuem datas de registro, por isso não serão feitas análises temporais em primeiro momento.
 2. Marketplace foi o modelo de negócio assumido.
 3. As 4 principais visões do negócio foram: Visão restaurantes, visão países, visão cidades e visão tipos de culinárias.
 
@@ -105,19 +106,23 @@ b) Top Restaurantes melhores avaliados
 c) Melhores tipos de culinárias
 d) Piores tipos de culinária
 
+
 # 4. Top 3 Insights de dados
 1. Índia e Estados Unidos possuem a maioria dos restaurantes
 2. Nenhuma cidade possui mais que 80 restaurantes cadastrados
 3. Os restaurantes localizados no Brasil possuem poucas avaliações comparados com os demais países.
 
+
 # 5. O produto final do projeto
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
 O painel pode ser acessado através desse link: https://gabs-fomezero.streamlit.app/Cuisines
+
 
 # 6. Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
 
 Com as visões implementadas no Dashboard, podemos concluir que Índia e Estados Unidos possuem a maioria dos restaurantes, que nenhuma cidade possui mais de 80 restaurantes, e que os clientes não estão avaliando os restaurantes dentro do Brasil.
+
 
 # 7. Próximos Passos:
 1. Melhorar a performance de carregamentos dos gráficos e mapas quando muitos países são selecionados ao mesmo tempo.
